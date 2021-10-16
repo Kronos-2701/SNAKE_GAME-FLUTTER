@@ -4,7 +4,7 @@ Now its much more colorful , animated and fun to play .
  
 Runs on both iOS and android.
 
-Currently working to add more features to make it even better
+Currently working on updates to add more features to make it even better
 
 # RULES
 1.) Eat the food to grow your snake .
