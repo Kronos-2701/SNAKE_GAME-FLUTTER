@@ -1,0 +1,4 @@
+#Tue Jul 12 13:54:40 IST 2022
+base.0=/Users/kronos27/PROJECTS/SNAKE_GAME-FLUTTER/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
